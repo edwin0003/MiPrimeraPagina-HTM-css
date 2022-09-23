@@ -315,6 +315,10 @@ p:first-line{
     .lista-diferenciales, .imagenDifenrenciales{
         width: 100%;
     }
+    textarea{
+        width: 80%;
+        margin: 10px;
+    }
     
 
  }
